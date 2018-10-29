@@ -10,7 +10,7 @@
     receivedEvent: function(id) {
         var botao = document.getElementById('botao');
         var print = document.getElementById('print');
-        botao.addEventListener('click', () => {
+        botao.addEventListener('click', function() {
             print.innerText = 'Botão acionado!';
             alert('Botão acionado!');
         });
