@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Cordova MyApp",
+  "short_name": "Cordova MyApp",
+  "version": "io.cordova.hellocordova",
+  "description": "Exemplo de aplicativo com phonegap apache cordova.",
+  "author": "Ben-Hur Varriano",
+  "icons": [],
+  "start_url": "index.html"
+}
